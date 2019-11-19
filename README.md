@@ -1,4 +1,4 @@
-# calculadora-js
+# calculadora-js [![Build Status](https://www.travis-ci.org/mvtorrecilha/calculadora-js.svg?branch=master)](https://www.travis-ci.org/mvtorrecilha/calculadora-js)
 
 ## Javascript com Jasmine
 - Desenvolvimento de testes unitários em Javascript com Jasmine;
